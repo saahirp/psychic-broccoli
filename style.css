@@ -1,0 +1,42 @@
+.headingthird{
+    color: floralwhite;
+    width:100%;
+    font-size: 30px;
+    margin: 0;
+}
+.spannote{
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+}
+
+.divspeed{
+    float: right;
+    
+}
+.diskspeed{
+    width: 130px;
+    height: 130px;
+    border-radius: 35px;
+}
+.divvolume{
+    float: left;
+    
+}
+.diskvolume{
+    width: 130px;
+    height: 130px;
+    border-radius: 35px;
+}
+.buttonplay{
+    font-size: 30px;
+    width: 150px;
+}
+
+canvas{
+    background-color: aliceblue;
+    border: black 5px;
+    box-shadow: grey 5px 5px 5px;
+}
